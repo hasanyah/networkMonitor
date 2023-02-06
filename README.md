@@ -18,4 +18,5 @@ cmake ../ && make
 
 # Notes 
 Socket access requires sudo privileges. $sudo su ./NetworkMonitor 
+
 Run ping.py in the background for testing if the network is passive (e.g. idle WSL)
