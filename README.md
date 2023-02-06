@@ -13,6 +13,7 @@ https://github.com/gabime/spdlog
 # Build application
 
 mkdir build && cd build
+
 cmake ../ && make
 
 # Notes 
